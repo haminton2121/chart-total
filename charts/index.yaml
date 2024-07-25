@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  apache-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-07-25T14:17:19.705261665Z"
+    description: A Helm chart for Kubernetes
+    digest: 5e491454bb0519703bf0464be0b0c61bf698ca816678b221122013612c3c7825
+    name: apache-helm
+    type: application
+    urls:
+    - apache-chart/apache-helm-0.0.1.tgz
+    version: 0.0.1
+  nginx-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-07-25T14:17:19.705544767Z"
+    description: A Helm chart for Kubernetes
+    digest: 62b715484b0b93a141962266624a71b672531b53116f37f96a3552240f02787a
+    name: nginx-helm
+    type: application
+    urls:
+    - nginx-chart/nginx-helm-0.2.1.tgz
+    version: 0.2.1
+generated: "2024-07-25T14:17:19.704794944Z"
